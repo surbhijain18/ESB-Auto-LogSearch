@@ -1,0 +1,5 @@
+* Developed a standalone application in Python to download data logs at the server, send them to client server, 
+scan them for the required information based on the MSISDN and generate a log file only containing the requested logs
+* Established interactions with the UNIX server using Shell Scripts and uses Socket programming for client-server communication
+* Implemented Regular expressions for pattern matching in the log files, Multithreading for concurrent access to company server 
+and GZIP library of Python to unzip the files containing logs
